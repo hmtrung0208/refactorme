@@ -1,0 +1,17 @@
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\nunit.engine.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\PaymentProcessorTest.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\PaymentProcessorTest.pdb
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\nunit.framework.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\PaymentProcessor.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\bin\Debug\net472\PaymentProcessor.pdb
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\obj\Debug\net472\PaymentProcessorTest.csproj.AssemblyReference.cache
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\obj\Debug\net472\PaymentProcessorTest.AssemblyInfoInputs.cache
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\obj\Debug\net472\PaymentProcessorTest.AssemblyInfo.cs
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\obj\Debug\net472\PaymentProcessorTest.csproj.CoreCompileInputs.cache
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\obj\Debug\net472\PaymentProcessorTest.csproj.CopyComplete
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\obj\Debug\net472\PaymentProcessorTest.dll
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessorTest\obj\Debug\net472\PaymentProcessorTest.pdb

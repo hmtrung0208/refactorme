@@ -9,3 +9,9 @@ C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\Paymen
 C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.csproj.CoreCompileInputs.cache
 C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.dll
 C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.pdb
+C:\Users\hmtru\Source\Repos\hmtrung0208\refactorme\PaymentProcessor\bin\Debug\PaymentProcessor.dll
+C:\Users\hmtru\Source\Repos\hmtrung0208\refactorme\PaymentProcessor\bin\Debug\PaymentProcessor.pdb
+C:\Users\hmtru\Source\Repos\hmtrung0208\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\Users\hmtru\Source\Repos\hmtrung0208\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.dll
+C:\Users\hmtru\Source\Repos\hmtrung0208\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.pdb
+C:\Users\hmtru\source\repos\hmtrung0208\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.csproj.AssemblyReference.cache

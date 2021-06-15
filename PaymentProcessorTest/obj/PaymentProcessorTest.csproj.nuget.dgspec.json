@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessorTest\\PaymentProcessorTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessorTest\\PaymentProcessorTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessorTest\\PaymentProcessorTest.csproj",
+        "projectName": "PaymentProcessorTest",
+        "projectPath": "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessorTest\\PaymentProcessorTest.csproj",
+        "packagesPath": "C:\\Users\\hmtru\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessorTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hmtru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/petronasvsts/f9b1921f-5c86-4e44-8703-1be44797f3bb/_packaging/AzureMigrationShareCode/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessor\\PaymentProcessor.csproj": {
+                "projectPath": "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessor\\PaymentProcessor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessor\\PaymentProcessor.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessor\\PaymentProcessor.csproj",
+        "projectName": "PaymentProcessor",
+        "projectPath": "C:\\Users\\hmtru\\source\\repos\\hmtrung0208\\refactorme\\PaymentProcessor\\PaymentProcessor.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

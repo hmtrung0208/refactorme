@@ -1,0 +1,11 @@
+C:\Users\hoang.minhtrun\source\repos\refactorme\PaymentProcessor\bin\Debug\PaymentProcessor.dll
+C:\Users\hoang.minhtrun\source\repos\refactorme\PaymentProcessor\bin\Debug\PaymentProcessor.pdb
+C:\Users\hoang.minhtrun\source\repos\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\Users\hoang.minhtrun\source\repos\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.dll
+C:\Users\hoang.minhtrun\source\repos\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.pdb
+C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\bin\Debug\PaymentProcessor.dll
+C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\bin\Debug\PaymentProcessor.pdb
+C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.csprojAssemblyReference.cache
+C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.dll
+C:\Users\hmtru\Downloads\refactorme\refactorme\PaymentProcessor\obj\Debug\PaymentProcessor.pdb
